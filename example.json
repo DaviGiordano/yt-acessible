@@ -1,0 +1,24 @@
+{"result":
+    [
+        {
+            "scene_id": 1,
+            "timestamp_start": "TIMESTAMP",
+            "timestamp_end": "TIMESTAMP",
+            "images": [
+                "/path/to/image.bpm",
+                "/path/to/image.bpm",
+                "/path/to/image.bpm"
+            ]
+        },
+        {
+            "scene_id": 2,
+            "timestamp_start": "TIMESTAMP",
+            "timestamp_end": "TIMESTAMP",
+            "images": [
+                "/path/to/image.bpm",
+                "/path/to/image.bpm",
+                "/path/to/image.bpm"
+            ]
+        }
+    ]
+}

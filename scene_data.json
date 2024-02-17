@@ -1,0 +1,226 @@
+[
+    {
+        "scene_id": 1,
+        "timestamp_start": "00:00:00.000",
+        "timestamp_end": "00:00:03.440",
+        "frame_start": 0,
+        "frame_end": 86
+    },
+    {
+        "scene_id": 2,
+        "timestamp_start": "00:00:03.440",
+        "timestamp_end": "00:00:06.600",
+        "frame_start": 86,
+        "frame_end": 165
+    },
+    {
+        "scene_id": 3,
+        "timestamp_start": "00:00:06.600",
+        "timestamp_end": "00:00:07.680",
+        "frame_start": 165,
+        "frame_end": 192
+    },
+    {
+        "scene_id": 4,
+        "timestamp_start": "00:00:07.680",
+        "timestamp_end": "00:00:08.840",
+        "frame_start": 192,
+        "frame_end": 221
+    },
+    {
+        "scene_id": 5,
+        "timestamp_start": "00:00:08.840",
+        "timestamp_end": "00:00:09.800",
+        "frame_start": 221,
+        "frame_end": 245
+    },
+    {
+        "scene_id": 6,
+        "timestamp_start": "00:00:09.800",
+        "timestamp_end": "00:00:12.120",
+        "frame_start": 245,
+        "frame_end": 303
+    },
+    {
+        "scene_id": 7,
+        "timestamp_start": "00:00:12.120",
+        "timestamp_end": "00:00:16.080",
+        "frame_start": 303,
+        "frame_end": 402
+    },
+    {
+        "scene_id": 8,
+        "timestamp_start": "00:00:16.080",
+        "timestamp_end": "00:00:18.480",
+        "frame_start": 402,
+        "frame_end": 462
+    },
+    {
+        "scene_id": 9,
+        "timestamp_start": "00:00:18.480",
+        "timestamp_end": "00:00:20.640",
+        "frame_start": 462,
+        "frame_end": 516
+    },
+    {
+        "scene_id": 10,
+        "timestamp_start": "00:00:20.640",
+        "timestamp_end": "00:00:23.480",
+        "frame_start": 516,
+        "frame_end": 587
+    },
+    {
+        "scene_id": 11,
+        "timestamp_start": "00:00:23.480",
+        "timestamp_end": "00:00:25.160",
+        "frame_start": 587,
+        "frame_end": 629
+    },
+    {
+        "scene_id": 12,
+        "timestamp_start": "00:00:25.160",
+        "timestamp_end": "00:00:27.440",
+        "frame_start": 629,
+        "frame_end": 686
+    },
+    {
+        "scene_id": 13,
+        "timestamp_start": "00:00:27.440",
+        "timestamp_end": "00:00:31.280",
+        "frame_start": 686,
+        "frame_end": 782
+    },
+    {
+        "scene_id": 14,
+        "timestamp_start": "00:00:31.280",
+        "timestamp_end": "00:00:35.280",
+        "frame_start": 782,
+        "frame_end": 882
+    },
+    {
+        "scene_id": 15,
+        "timestamp_start": "00:00:35.280",
+        "timestamp_end": "00:00:37.160",
+        "frame_start": 882,
+        "frame_end": 929
+    },
+    {
+        "scene_id": 16,
+        "timestamp_start": "00:00:37.160",
+        "timestamp_end": "00:00:44.000",
+        "frame_start": 929,
+        "frame_end": 1100
+    },
+    {
+        "scene_id": 17,
+        "timestamp_start": "00:00:44.000",
+        "timestamp_end": "00:00:46.240",
+        "frame_start": 1100,
+        "frame_end": 1156
+    },
+    {
+        "scene_id": 18,
+        "timestamp_start": "00:00:46.240",
+        "timestamp_end": "00:00:47.920",
+        "frame_start": 1156,
+        "frame_end": 1198
+    },
+    {
+        "scene_id": 19,
+        "timestamp_start": "00:00:47.920",
+        "timestamp_end": "00:00:51.360",
+        "frame_start": 1198,
+        "frame_end": 1284
+    },
+    {
+        "scene_id": 20,
+        "timestamp_start": "00:00:51.360",
+        "timestamp_end": "00:00:52.360",
+        "frame_start": 1284,
+        "frame_end": 1309
+    },
+    {
+        "scene_id": 21,
+        "timestamp_start": "00:00:52.360",
+        "timestamp_end": "00:00:53.640",
+        "frame_start": 1309,
+        "frame_end": 1341
+    },
+    {
+        "scene_id": 22,
+        "timestamp_start": "00:00:53.640",
+        "timestamp_end": "00:00:55.240",
+        "frame_start": 1341,
+        "frame_end": 1381
+    },
+    {
+        "scene_id": 23,
+        "timestamp_start": "00:00:55.240",
+        "timestamp_end": "00:00:57.160",
+        "frame_start": 1381,
+        "frame_end": 1429
+    },
+    {
+        "scene_id": 24,
+        "timestamp_start": "00:00:57.160",
+        "timestamp_end": "00:00:58.240",
+        "frame_start": 1429,
+        "frame_end": 1456
+    },
+    {
+        "scene_id": 25,
+        "timestamp_start": "00:00:58.240",
+        "timestamp_end": "00:01:00.720",
+        "frame_start": 1456,
+        "frame_end": 1518
+    },
+    {
+        "scene_id": 26,
+        "timestamp_start": "00:01:00.720",
+        "timestamp_end": "00:01:02.200",
+        "frame_start": 1518,
+        "frame_end": 1555
+    },
+    {
+        "scene_id": 27,
+        "timestamp_start": "00:01:02.200",
+        "timestamp_end": "00:01:04.240",
+        "frame_start": 1555,
+        "frame_end": 1606
+    },
+    {
+        "scene_id": 28,
+        "timestamp_start": "00:01:04.240",
+        "timestamp_end": "00:01:09.880",
+        "frame_start": 1606,
+        "frame_end": 1747
+    },
+    {
+        "scene_id": 29,
+        "timestamp_start": "00:01:09.880",
+        "timestamp_end": "00:01:12.000",
+        "frame_start": 1747,
+        "frame_end": 1800
+    },
+    {
+        "scene_id": 30,
+        "timestamp_start": "00:01:12.000",
+        "timestamp_end": "00:01:13.960",
+        "frame_start": 1800,
+        "frame_end": 1849
+    },
+    {
+        "scene_id": 31,
+        "timestamp_start": "00:01:13.960",
+        "timestamp_end": "00:01:16.600",
+        "frame_start": 1849,
+        "frame_end": 1915
+    },
+    {
+        "scene_id": 32,
+        "timestamp_start": "00:01:16.600",
+        "timestamp_end": "00:01:19.000",
+        "frame_start": 1915,
+        "frame_end": 1975
+    }
+]
